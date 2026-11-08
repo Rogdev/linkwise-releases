@@ -17,6 +17,12 @@ Ga naar **[de nieuwste release](https://github.com/Rogdev/linkwise-releases/rele
 > De bestanden "Source code (zip/tar.gz)" die GitHub bij elke release toont, bevatten alleen deze README, geen app.
 > *The "Source code" files GitHub adds to every release only contain this README.*
 
+## Bèta · Beta
+
+Wil je nieuwe functies eerder proberen? Bètaversies (zoals `0.4.0-beta.1`) staan bij de [releases](https://github.com/Rogdev/linkwise-releases/releases) met het label *Pre-release*. Of zet in Linkwise **Instellingen → Updates → Bètaversies ontvangen** aan: dan krijg je ze vanzelf. Bètaversies kunnen fouten bevatten.
+
+*Want new features earlier? Beta versions are marked Pre-release on the releases page, or turn on Settings → Updates → Receive beta versions in Linkwise.*
+
 ## Installeren · Install
 
 1. Installeer en open de Linkwise-app op je computer.
